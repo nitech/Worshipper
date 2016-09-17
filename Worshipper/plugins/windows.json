@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Worshipper"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Worshipper"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Worshipper"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "Worshipper"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Worshipper"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "Worshipper"
+        }
+    },
+    "dependent_plugins": {}
+}
